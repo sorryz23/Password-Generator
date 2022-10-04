@@ -21,7 +21,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Mock-Up
- ![Screenshot](Assets\Screenshot 2022-10-03 181610.png)
+ ![Screenshot](Assets\Pass-ss.png)
  [Deployed website](https://sorryz23.github.io/Password-Generator)
 
 ## Description
